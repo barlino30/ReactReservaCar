@@ -1,0 +1,29 @@
+.LetraPG{
+    padding: 2px;
+    width: 200px;
+    font-family:'Nunito', cursive;
+    font-size: 12px;
+    letter-spacing: 5px;
+    color: #FA9405;
+}
+
+.ImagenI{
+    float: left;
+    margin-top: 2%;
+    margin-left: 3%;
+    margin-right: 0%;
+}
+
+.ImagenC{
+    float: right;
+    margin-top: 2%;
+    margin-left: 0%;
+    margin-right: 20%;
+}
+
+.ImagenD{
+    float: right;
+    margin-top: 2%;
+    margin-left: 0%;
+    margin-right: 3%;
+}

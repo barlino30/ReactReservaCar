@@ -1,0 +1,69 @@
+.LogoH{
+    float: left;
+    margin-top: 4%;
+    margin-left: 6%;
+    margin-right: 0%;
+}
+
+
+
+.LetraGT{
+    padding: 2px;
+    width: 300px;
+    font-family:'Nunito', cursive;
+    font-size: 14px;
+    letter-spacing: 5px;
+}
+.LetraG{
+    padding: 2px;
+    width: 500px;
+    font-family:'Nunito', cursive;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.LetraC{
+    float: right;
+    margin-top: 1%;
+    margin-left: 0%;
+    margin-right: 2%;
+}
+.LetraD{
+    float: left;
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 2%;
+}
+
+.FormularioH{
+    float: left;
+    margin-top: 4%;
+    margin-left: 22%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+
+
+.LetraDA{
+    float: right;
+    margin-top: 2%;
+    margin-left: 0%;
+    margin-right: 35%;
+}
+.LetraDT{
+    padding: 2px;
+    width: 300px;
+    font-family:'Nunito', cursive;
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: #FC9708;
+}
+.LetraDy{
+    padding: 2px;
+    width: 500px;
+    font-family:'Nunito', cursive;
+    font-size: 20px;
+    letter-spacing: 5px;
+    color: #FA9405;
+}
+

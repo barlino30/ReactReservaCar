@@ -1,0 +1,55 @@
+.FondoHead{
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow: hidden;
+    background-image: url("https://img.freepik.com/vector-gratis/nina-conduce-automovil-vacaciones-coche-conduciendo-desierto-vacaciones-playa-coche-techo-descubierto-coche-deportivo-azul-conduciendo-rapido-llanura_315087-62.jpg?size=626&ext=jpg");
+    
+}
+
+.FondoSobre{
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+    height: 200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow: hidden;
+    background-image: url("https://latribunadeautomocion.es/wp-content/uploads/2013/06/concesionario_matri.jpg");
+}
+
+.FondoProduc{
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+    height: 250px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow: hidden;
+    background-color: rgba(225, 229, 233, 0.884);
+}
+
+.FondoFoot{
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+    height: 300px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow: hidden;
+    background-image: url("https://img.freepik.com/vector-gratis/nina-conduce-automovil-vacaciones-coche-conduciendo-desierto-vacaciones-playa-coche-techo-descubierto-coche-deportivo-azul-conduciendo-rapido-llanura_315087-62.jpg?size=626&ext=jpg");
+    
+}

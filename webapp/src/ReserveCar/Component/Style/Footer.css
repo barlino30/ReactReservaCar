@@ -1,0 +1,35 @@
+.LetraFG{
+    padding: 2px;
+    width: 450px;
+    font-family:'Nunito', cursive;
+    font-size: 15px;
+    letter-spacing: 5px;
+    color: #000000;
+}
+.LetraFP{
+    float: left;
+    margin-top: 2%;
+    margin-left: 30%;
+    margin-right: 0%;
+}
+
+.BotonF{
+    float: right;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 50%;
+}
+.LogoF{
+    float: left;
+    margin-top: 10%;
+    margin-left: 6%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+}
+.LetraF{
+    float: right;
+    margin-top: 6%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+}
